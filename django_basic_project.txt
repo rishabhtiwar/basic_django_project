@@ -1,0 +1,37 @@
+------------------About the Django basic project---------------------
+
+Main Project : Telusko
+Apps : [accounts, travello, calc, templates]
+Static Files : static
+Media Files : media
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+The purpose of this project is to use Django framework and use it to make dynamic content on the webpage which can be handled by the admin 
+users (super users) and by normal users also. We have make use of Postgresql which is handling all the database related activities. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+	APPS
+
+CALC : This is the app mainly defined to do basic operations like printing name on the webpage and making some dynamic 
+       content on the webpage. Addition operation is also done on the webpage.
+
+TEMPLATES : It contains all the html and css files which are static but we have used DTL (& jinja formatting) to make them dynamic.
+
+ACCOUNTS : It contains all the registration and login details and how to connect them to the database.
+
+TRAVELLO : This is the main application which we have worked upon. We have picked a template (travello colorlib) from the internet 
+	   and worked on it. 
+
+
+
+STATIC FILES : They are made static in the project so that the layout can be fixed for the webpage.
+
+
+
+MEDIA FILES : They contains all the images and their locations which is required for the website.
+
+
+
+
